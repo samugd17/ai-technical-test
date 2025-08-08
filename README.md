@@ -15,8 +15,8 @@ This project evaluates customer support ticket replies using the OpenAI GPT-4 AP
 1. Clone this repository:
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/samugd17/ai-technical-test.git>
+cd ai-technical-test
 ```
 
 2. Create and activate a Python virtual environment:
